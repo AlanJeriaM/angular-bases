@@ -18,7 +18,6 @@ import { ContadorComponent } from './components/contador/contador.component';
 
   ],
 
-
   providers: [],
 })
 
